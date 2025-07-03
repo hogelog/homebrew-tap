@@ -6,7 +6,7 @@ class Tcdd < Formula
   homepage "https://github.com/hogelog/tcdd"
   url "https://github.com/hogelog/tcdd/archive/refs/tags/0.0.2.tar.gz"
   version "0.0.2"
-  sha256 "a060514047f4f7ff870a1ee9e61bfecb69dcc8ca"
+  sha256 "b13cd5cc4ae55732ee595eb2662f4748cb4294dc569873f3405b8c21df28d00f"
   license "MIT"
 
   depends_on "bash"
